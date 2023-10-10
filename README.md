@@ -1,4 +1,4 @@
-# Automated-Amazon-Price-Tracker
+
 # Automated Amazon Price Tracker
 ### Step 1 - Use BeautifulSoup to Scrape the Product Price
  1. Find a product on Amazon that you want to track and get the product URL or just use the one I'm tracking.
