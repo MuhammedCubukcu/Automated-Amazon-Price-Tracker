@@ -49,8 +49,6 @@ HINT: You can test the email by changing the target price to above the current l
 
 
 
-SOLUTION
-
 
 
 NOTE: If you have issues and keep getting this error:
